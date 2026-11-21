@@ -1,0 +1,1 @@
+Estoy practicando cómo deshacer un commit local y conservar los cambios de mi archivo.
