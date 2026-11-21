@@ -2,3 +2,4 @@ Línea 1: Git guarda el historial del proyecto.
 Línea 2: Cada commit registra lo que haces en github.
 Línea 3: Las ramas permiten trabajar sin dañar main.
 noshe nada.
+Línea 5: Git stash guarda temporalmente mis cambios para retomarlos después.
